@@ -26,8 +26,13 @@ def create_app(config_name='development'):
     # Enable CORS for React frontend
     CORS(app, resources={
         r"/api/*": {
-            "origins": ["http://localhost:5173", "http://localhost:3000"],
-            "methods": ["GET", "POST", "PUT", "DELETE", "PATCH"],
+            "origins": [
+                "http://localhost:5173", 
+                "http://localhost:3000",
+                "https://flask-market-enterprise.vercel.app",
+                "https://*.vercel.app"
+            ],
+            "methods": ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
             "allow_headers": ["Content-Type", "Authorization"],
             "supports_credentials": True
         }
