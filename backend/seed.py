@@ -104,7 +104,7 @@ def seed_database():
             'price': 1199.00,
             'compare_price': 1299.00,
             'stock_quantity': 50,
-            'thumbnail_url': 'https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-1.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1697120531506-c1f0db3ce0a0?w=800&h=800&fit=crop',
             'brand': 'Apple',
             'is_featured': True,
             'is_new': True,
@@ -119,7 +119,7 @@ def seed_database():
             'price': 1299.99,
             'compare_price': 1399.99,
             'stock_quantity': 45,
-            'thumbnail_url': 'https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s24-ultra-5g-sm-s928-1.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&h=800&fit=crop',
             'brand': 'Samsung',
             'is_featured': True,
             'is_new': True,
@@ -134,7 +134,7 @@ def seed_database():
             'price': 999.00,
             'compare_price': 1099.00,
             'stock_quantity': 60,
-            'thumbnail_url': 'https://fdn2.gsmarena.com/vv/pics/google/google-pixel-8-pro-1.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&h=800&fit=crop',
             'brand': 'Google',
             'is_featured': True,
             'category': 'smartphones'
@@ -148,7 +148,7 @@ def seed_database():
             'price': 799.00,
             'compare_price': 899.00,
             'stock_quantity': 70,
-            'thumbnail_url': 'https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-12-1.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop',
             'brand': 'OnePlus',
             'is_new': True,
             'category': 'smartphones'
@@ -162,7 +162,7 @@ def seed_database():
             'price': 799.00,
             'compare_price': 899.00,
             'stock_quantity': 80,
-            'thumbnail_url': 'https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-1.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1592286927505-4fd09de0574e?w=800&h=800&fit=crop',
             'brand': 'Apple',
             'category': 'smartphones'
         },
@@ -177,7 +177,7 @@ def seed_database():
             'price': 3499.00,
             'compare_price': 3699.00,
             'stock_quantity': 25,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/07t6FuB1cFGNZbIWU90mEfE-1.fit_lim.size_1050x591.v1699392031.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&h=600&fit=crop',
             'brand': 'Apple',
             'is_featured': True,
             'category': 'laptops'
@@ -191,7 +191,7 @@ def seed_database():
             'price': 1899.99,
             'compare_price': 2099.99,
             'stock_quantity': 35,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/00NXHS3Q2I8rJLhVJiAQxXV-13.fit_lim.size_1050x591.v1681740219.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800&h=600&fit=crop',
             'brand': 'Dell',
             'is_new': True,
             'category': 'laptops'
@@ -205,7 +205,7 @@ def seed_database():
             'price': 1099.00,
             'compare_price': 1199.00,
             'stock_quantity': 60,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/03G1L4XFJ0HJX3bh3CVQyqw-1.fit_lim.size_1050x591.v1709746955.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800&h=600&fit=crop',
             'brand': 'Apple',
             'is_featured': True,
             'category': 'laptops'
@@ -219,7 +219,7 @@ def seed_database():
             'price': 1999.99,
             'compare_price': 2199.99,
             'stock_quantity': 30,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/03SiIRzPpQ5cP1hExaKq77Y-1.fit_lim.size_1050x591.v1674668361.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=600&fit=crop',
             'brand': 'ASUS',
             'is_featured': True,
             'category': 'laptops'
@@ -233,7 +233,7 @@ def seed_database():
             'price': 1649.99,
             'compare_price': 1849.99,
             'stock_quantity': 40,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/03aqLpXCXUv01t2JPNjOhXy-1.fit_lim.size_1050x591.v1695243491.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&h=600&fit=crop',
             'brand': 'HP',
             'category': 'laptops'
         },
@@ -248,7 +248,7 @@ def seed_database():
             'price': 349.99,
             'compare_price': 399.99,
             'stock_quantity': 100,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/027JHJHK3QCXjMfJ4efzlKM-1.fit_lim.size_1050x591.v1653588597.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&h=600&fit=crop',
             'brand': 'Sony',
             'is_featured': True,
             'category': 'electronics'
@@ -262,7 +262,7 @@ def seed_database():
             'price': 249.00,
             'compare_price': 279.00,
             'stock_quantity': 120,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/00YCMmYkLwQJvGYGPMjQQmG-1.fit_lim.size_1050x591.v1663877590.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?w=800&h=600&fit=crop',
             'brand': 'Apple',
             'is_featured': True,
             'category': 'electronics'
@@ -276,7 +276,7 @@ def seed_database():
             'price': 2499.99,
             'compare_price': 2999.99,
             'stock_quantity': 20,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/02mLJSLdwJvAiGNWvtq2RPf-1.fit_lim.size_1050x591.v1672420746.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&h=600&fit=crop',
             'brand': 'Samsung',
             'is_featured': True,
             'category': 'electronics'
@@ -290,7 +290,7 @@ def seed_database():
             'price': 429.00,
             'compare_price': 479.00,
             'stock_quantity': 75,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/061gcunV5mwnLoqttCcwALO-1.fit_lim.size_1050x591.v1696343628.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1545127398-14699f92334b?w=800&h=600&fit=crop',
             'brand': 'Bose',
             'is_new': True,
             'category': 'electronics'
@@ -304,7 +304,7 @@ def seed_database():
             'price': 179.99,
             'compare_price': 199.99,
             'stock_quantity': 90,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/02qEIiLJJGU4dLLYc1aw16h-1.fit_lim.size_1050x591.v1653413683.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&h=600&fit=crop',
             'brand': 'JBL',
             'category': 'electronics'
         },
@@ -317,7 +317,7 @@ def seed_database():
             'price': 99.00,
             'compare_price': 119.00,
             'stock_quantity': 150,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/05XlwqPq1e6vQzAIMvNgCwu-1.fit_lim.size_1050x591.v1605733430.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=800&h=600&fit=crop',
             'brand': 'Apple',
             'category': 'electronics'
         },
@@ -332,7 +332,7 @@ def seed_database():
             'price': 499.99,
             'compare_price': 549.99,
             'stock_quantity': 30,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/04sM1IClHDePghhvDdxB9em-1.fit_lim.size_1050x591.v1604957493.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=800&h=600&fit=crop',
             'brand': 'Sony',
             'is_featured': True,
             'category': 'gaming'
@@ -346,7 +346,7 @@ def seed_database():
             'price': 349.99,
             'compare_price': 379.99,
             'stock_quantity': 55,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/073YX8dFIbOCwJQb8iD9i7W-1.fit_lim.size_1050x591.v1633631253.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?w=800&h=600&fit=crop',
             'brand': 'Nintendo',
             'is_featured': True,
             'category': 'gaming'
@@ -360,7 +360,7 @@ def seed_database():
             'price': 499.99,
             'compare_price': 549.99,
             'stock_quantity': 40,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/02D9qHEwlrpMYPVnXHaZmAB-1.fit_lim.size_1050x591.v1604625587.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=800&h=600&fit=crop',
             'brand': 'Microsoft',
             'is_featured': True,
             'category': 'gaming'
@@ -374,7 +374,7 @@ def seed_database():
             'price': 549.00,
             'compare_price': 649.00,
             'stock_quantity': 35,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/01qRvJIYW4N5p8xYhcqfTlQ-1.fit_lim.size_1050x591.v1677254992.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1625805866449-3589fe3f71a3?w=800&h=600&fit=crop',
             'brand': 'Valve',
             'is_new': True,
             'category': 'gaming'
@@ -388,7 +388,7 @@ def seed_database():
             'price': 179.99,
             'compare_price': 199.99,
             'stock_quantity': 80,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/04bOZEFmfMnj1VEm0S3eLUz-1.fit_lim.size_1050x591.v1683569181.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1599669454699-248893623440?w=800&h=600&fit=crop',
             'brand': 'Razer',
             'category': 'gaming'
         },
@@ -403,7 +403,7 @@ def seed_database():
             'price': 150.00,
             'compare_price': 170.00,
             'stock_quantity': 80,
-            'thumbnail_url': 'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/awjogtdnqxniqqk0wpgf/air-max-270-shoes-2V5C4p.png',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=800&fit=crop',
             'brand': 'Nike',
             'is_featured': True,
             'category': 'fashion'
@@ -417,7 +417,7 @@ def seed_database():
             'price': 190.00,
             'compare_price': 210.00,
             'stock_quantity': 65,
-            'thumbnail_url': 'https://brand.assets.adidas.com/image/upload/f_auto,q_auto:best,fl_lossy/if_w_gt_800,w_800/ultraboost_light_running_ss24_launch_clp_global_hp_d_dd0e30bcde.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&h=800&fit=crop',
             'brand': 'Adidas',
             'is_featured': True,
             'category': 'fashion'
@@ -431,7 +431,7 @@ def seed_database():
             'price': 69.50,
             'compare_price': 89.50,
             'stock_quantity': 120,
-            'thumbnail_url': 'https://lsco.scene7.com/is/image/lsco/005010114-front-pdp?fmt=jpeg&qlt=70&resMode=bisharp&fit=crop,0&op_usm=1.25,0.6,8&wid=600&hei=600',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&h=800&fit=crop',
             'brand': 'Levi\'s',
             'category': 'fashion'
         },
@@ -444,7 +444,7 @@ def seed_database():
             'price': 169.00,
             'compare_price': 199.00,
             'stock_quantity': 90,
-            'thumbnail_url': 'https://assets.ray-ban.com/is/image/RayBan/805289602057_shad_qt.png?impolicy=RB_RB_FBShare',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=600&fit=crop',
             'brand': 'Ray-Ban',
             'is_featured': True,
             'category': 'fashion'
@@ -458,7 +458,7 @@ def seed_database():
             'price': 320.00,
             'compare_price': 380.00,
             'stock_quantity': 45,
-            'thumbnail_url': 'https://images.thenorthface.com/is/image/TheNorthFace/NF0A4R2S_JK3_hero?wid=600&hei=600',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=800&h=800&fit=crop',
             'brand': 'The North Face',
             'is_new': True,
             'category': 'fashion'
@@ -474,7 +474,7 @@ def seed_database():
             'price': 749.99,
             'compare_price': 849.99,
             'stock_quantity': 40,
-            'thumbnail_url': 'https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/products/hero/448789-01.png?$responsive$&cropPathE=desktop&fit=stretch,1&fmt=pjpeg&wid=600',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&h=600&fit=crop',
             'brand': 'Dyson',
             'is_featured': True,
             'category': 'home-kitchen'
@@ -488,7 +488,7 @@ def seed_database():
             'price': 179.00,
             'compare_price': 219.00,
             'stock_quantity': 70,
-            'thumbnail_url': 'https://www.nespresso.com/ecom/medias/sys_master/public/14794219520030/M-0581-PDP-Background-Front.png?impolicy=productPdpSa498',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=800&h=600&fit=crop',
             'brand': 'Nespresso',
             'is_featured': True,
             'category': 'home-kitchen'
@@ -502,7 +502,7 @@ def seed_database():
             'price': 89.99,
             'compare_price': 119.99,
             'stock_quantity': 100,
-            'thumbnail_url': 'https://m.media-amazon.com/images/I/71V1LrY-HkL._AC_SX679_.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&h=600&fit=crop',
             'brand': 'Instant Pot',
             'category': 'home-kitchen'
         },
@@ -515,7 +515,7 @@ def seed_database():
             'price': 449.99,
             'compare_price': 499.99,
             'stock_quantity': 35,
-            'thumbnail_url': 'https://kitchenaid-h.assetsadobe.com/is/image/content/dam/global/kitchenaid/countertop-appliance/portable/images/hero-KSM150PSER.tif?$ka-product-hero$',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=800&h=600&fit=crop',
             'brand': 'KitchenAid',
             'is_featured': True,
             'category': 'home-kitchen'
@@ -529,7 +529,7 @@ def seed_database():
             'price': 299.99,
             'compare_price': 349.99,
             'stock_quantity': 55,
-            'thumbnail_url': 'https://m.media-amazon.com/images/I/71O+fJHfPiL._AC_SX679_.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1585032226651-759b368d7246?w=800&h=600&fit=crop',
             'brand': 'Philips',
             'is_new': True,
             'category': 'home-kitchen'
@@ -545,7 +545,7 @@ def seed_database():
             'price': 18.99,
             'compare_price': 27.00,
             'stock_quantity': 200,
-            'thumbnail_url': 'https://m.media-amazon.com/images/I/81YkqyaFVEL._AC_UF1000,1000_QL80_.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&h=800&fit=crop',
             'brand': 'Random House',
             'is_featured': True,
             'category': 'books'
@@ -559,7 +559,7 @@ def seed_database():
             'price': 16.99,
             'compare_price': 24.00,
             'stock_quantity': 180,
-            'thumbnail_url': 'https://m.media-amazon.com/images/I/81cpDaCJJCL._AC_UF1000,1000_QL80_.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&h=800&fit=crop',
             'brand': 'Harriman House',
             'is_featured': True,
             'category': 'books'
@@ -573,7 +573,7 @@ def seed_database():
             'price': 17.99,
             'compare_price': 26.00,
             'stock_quantity': 150,
-            'thumbnail_url': 'https://m.media-amazon.com/images/I/71bLEVj5alL._AC_UF1000,1000_QL80_.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&h=800&fit=crop',
             'brand': 'Grand Central',
             'category': 'books'
         },
@@ -586,7 +586,7 @@ def seed_database():
             'price': 12.99,
             'compare_price': 18.00,
             'stock_quantity': 220,
-            'thumbnail_url': 'https://m.media-amazon.com/images/I/91dLJKpw3vL._AC_UF1000,1000_QL80_.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=600&h=800&fit=crop',
             'brand': 'TarcherPerigee',
             'category': 'books'
         },
@@ -601,7 +601,7 @@ def seed_database():
             'price': 49.99,
             'compare_price': 69.99,
             'stock_quantity': 150,
-            'thumbnail_url': 'https://m.media-amazon.com/images/I/71uEsDC2BhL._AC_SX679_.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=800&h=600&fit=crop',
             'brand': 'FitLife',
             'category': 'sports-fitness'
         },
@@ -614,7 +614,7 @@ def seed_database():
             'price': 429.00,
             'compare_price': 549.00,
             'stock_quantity': 40,
-            'thumbnail_url': 'https://m.media-amazon.com/images/I/71vPp8F5yDL._AC_SX679_.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&h=600&fit=crop',
             'brand': 'Bowflex',
             'is_featured': True,
             'category': 'sports-fitness'
@@ -628,7 +628,7 @@ def seed_database():
             'price': 159.95,
             'compare_price': 179.95,
             'stock_quantity': 85,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/05GqHK4Xy2NIeL8wXLPzZJu-1.fit_lim.size_1050x591.v1696877759.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=800&h=600&fit=crop',
             'brand': 'Fitbit',
             'is_new': True,
             'category': 'sports-fitness'
@@ -642,7 +642,7 @@ def seed_database():
             'price': 399.00,
             'compare_price': 449.00,
             'stock_quantity': 50,
-            'thumbnail_url': 'https://m.media-amazon.com/images/I/61wKRPwKKVL._AC_SX679_.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop',
             'brand': 'Therabody',
             'is_featured': True,
             'category': 'sports-fitness'
@@ -658,7 +658,7 @@ def seed_database():
             'price': 799.00,
             'compare_price': 899.00,
             'stock_quantity': 45,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/036F5K90sTOthXkc9rXNOYe-1.fit_lim.size_1050x591.v1696451015.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=800&h=600&fit=crop',
             'brand': 'Apple',
             'is_featured': True,
             'is_new': True,
@@ -673,7 +673,7 @@ def seed_database():
             'price': 399.99,
             'compare_price': 449.99,
             'stock_quantity': 60,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/03QpGfLqkXVqYOCDcQeRqcP-1.fit_lim.size_1050x591.v1690994932.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&h=600&fit=crop',
             'brand': 'Samsung',
             'is_featured': True,
             'category': 'watches'
@@ -687,7 +687,7 @@ def seed_database():
             'price': 699.99,
             'compare_price': 799.99,
             'stock_quantity': 35,
-            'thumbnail_url': 'https://i.pcmag.com/imagery/reviews/04fGzahCCJ0kPMBnBc3tP2X-1.fit_lim.size_1050x591.v1673454973.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800&h=600&fit=crop',
             'brand': 'Garmin',
             'category': 'watches'
         },
@@ -702,7 +702,7 @@ def seed_database():
             'price': 599.99,
             'compare_price': 649.99,
             'stock_quantity': 30,
-            'thumbnail_url': 'https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/leap-petproducts-702702/702702-p1.png?$responsive$&cropPathE=desktop&fit=stretch,1&fmt=pjpeg&wid=600',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1522338242992-e1a54906a8da?w=800&h=600&fit=crop',
             'brand': 'Dyson',
             'is_featured': True,
             'category': 'beauty'
@@ -716,7 +716,7 @@ def seed_database():
             'price': 380.00,
             'compare_price': 420.00,
             'stock_quantity': 25,
-            'thumbnail_url': 'https://m.media-amazon.com/images/I/51gT-HPhAJL._SX679_.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&h=600&fit=crop',
             'brand': 'La Mer',
             'is_featured': True,
             'category': 'beauty'
@@ -730,7 +730,7 @@ def seed_database():
             'price': 265.00,
             'compare_price': 295.00,
             'stock_quantity': 40,
-            'thumbnail_url': 'https://m.media-amazon.com/images/I/61HMvYcxgnL._SX679_.jpg',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop',
             'brand': 'SK-II',
             'category': 'beauty'
         },
