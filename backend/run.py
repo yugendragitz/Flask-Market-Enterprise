@@ -15,6 +15,17 @@ from app.extensions import db
 # Create application instance
 app = create_app(os.getenv('FLASK_ENV', 'development'))
 
+# Auto-initialize database on startup (for production deployment)
+with app.app_context():
+    db.create_all()
+    # Check if database is empty and seed it
+    from app.models.product import Category
+    if Category.query.count() == 0:
+        print('🌱 Seeding database...')
+        from seed import seed_database
+        seed_database()
+        print('✅ Database seeded successfully!')
+
 
 @app.cli.command('init-db')
 def init_db():
