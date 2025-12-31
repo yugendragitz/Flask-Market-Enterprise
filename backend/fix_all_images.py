@@ -15,7 +15,7 @@ PRODUCT_IMAGES = {
     2: "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&h=800&fit=crop",  # Samsung Galaxy S24
     3: "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&h=800&fit=crop",  # Google Pixel
     4: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop",  # OnePlus
-    5: "https://images.unsplash.com/photo-1592286927505-4fd09de0574e?w=800&h=800&fit=crop",  # iPhone 15
+    5: "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&h=800&fit=crop",  # iPhone 15
     
     # Laptops (IDs 6-10)
     6: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&h=600&fit=crop",  # MacBook Pro
@@ -30,7 +30,7 @@ PRODUCT_IMAGES = {
     13: "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&h=600&fit=crop",  # Samsung TV
     14: "https://images.unsplash.com/photo-1545127398-14699f92334b?w=800&h=600&fit=crop",  # Bose Headphones
     15: "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&h=600&fit=crop",  # JBL Speaker
-    16: "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=800&h=600&fit=crop",  # HomePod
+    16: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",  # HomePod
     
     # Gaming (IDs 17-21)
     17: "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=800&h=600&fit=crop",  # PS5

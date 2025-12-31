@@ -162,7 +162,7 @@ def seed_database():
             'price': 799.00,
             'compare_price': 899.00,
             'stock_quantity': 80,
-            'thumbnail_url': 'https://images.unsplash.com/photo-1592286927505-4fd09de0574e?w=800&h=800&fit=crop',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&h=800&fit=crop',
             'brand': 'Apple',
             'category': 'smartphones'
         },
@@ -317,7 +317,7 @@ def seed_database():
             'price': 99.00,
             'compare_price': 119.00,
             'stock_quantity': 150,
-            'thumbnail_url': 'https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=800&h=600&fit=crop',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop',
             'brand': 'Apple',
             'category': 'electronics'
         },
