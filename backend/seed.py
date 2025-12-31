@@ -104,7 +104,7 @@ def seed_database():
             'price': 1199.00,
             'compare_price': 1299.00,
             'stock_quantity': 50,
-            'thumbnail_url': 'https://picsum.photos/seed/11/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=400&h=400&fit=crop',
             'brand': 'Apple',
             'is_featured': True,
             'is_new': True,
@@ -119,7 +119,7 @@ def seed_database():
             'price': 1299.99,
             'compare_price': 1399.99,
             'stock_quantity': 45,
-            'thumbnail_url': 'https://picsum.photos/seed/12/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&h=400&fit=crop',
             'brand': 'Samsung',
             'is_featured': True,
             'is_new': True,
@@ -134,7 +134,7 @@ def seed_database():
             'price': 999.00,
             'compare_price': 1099.00,
             'stock_quantity': 60,
-            'thumbnail_url': 'https://picsum.photos/seed/13/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=400&h=400&fit=crop',
             'brand': 'Google',
             'is_featured': True,
             'category': 'smartphones'
@@ -148,7 +148,7 @@ def seed_database():
             'price': 799.00,
             'compare_price': 899.00,
             'stock_quantity': 70,
-            'thumbnail_url': 'https://picsum.photos/seed/14/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=400&h=400&fit=crop',
             'brand': 'OnePlus',
             'is_new': True,
             'category': 'smartphones'
@@ -162,7 +162,7 @@ def seed_database():
             'price': 799.00,
             'compare_price': 899.00,
             'stock_quantity': 80,
-            'thumbnail_url': 'https://picsum.photos/seed/15/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400&h=400&fit=crop',
             'brand': 'Apple',
             'category': 'smartphones'
         },
@@ -177,7 +177,7 @@ def seed_database():
             'price': 3499.00,
             'compare_price': 3699.00,
             'stock_quantity': 25,
-            'thumbnail_url': 'https://picsum.photos/seed/16/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop',
             'brand': 'Apple',
             'is_featured': True,
             'category': 'laptops'
@@ -191,7 +191,7 @@ def seed_database():
             'price': 1899.99,
             'compare_price': 2099.99,
             'stock_quantity': 35,
-            'thumbnail_url': 'https://picsum.photos/seed/17/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=400&h=400&fit=crop',
             'brand': 'Dell',
             'is_new': True,
             'category': 'laptops'
@@ -205,7 +205,7 @@ def seed_database():
             'price': 1099.00,
             'compare_price': 1199.00,
             'stock_quantity': 60,
-            'thumbnail_url': 'https://picsum.photos/seed/18/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=400&h=400&fit=crop',
             'brand': 'Apple',
             'is_featured': True,
             'category': 'laptops'
@@ -219,7 +219,7 @@ def seed_database():
             'price': 1999.99,
             'compare_price': 2199.99,
             'stock_quantity': 30,
-            'thumbnail_url': 'https://picsum.photos/seed/19/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=400&fit=crop',
             'brand': 'ASUS',
             'is_featured': True,
             'category': 'laptops'
@@ -233,7 +233,7 @@ def seed_database():
             'price': 1649.99,
             'compare_price': 1849.99,
             'stock_quantity': 40,
-            'thumbnail_url': 'https://picsum.photos/seed/20/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=400&h=400&fit=crop',
             'brand': 'HP',
             'category': 'laptops'
         },
@@ -248,7 +248,7 @@ def seed_database():
             'price': 349.99,
             'compare_price': 399.99,
             'stock_quantity': 100,
-            'thumbnail_url': 'https://picsum.photos/seed/21/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=400&h=400&fit=crop',
             'brand': 'Sony',
             'is_featured': True,
             'category': 'electronics'
@@ -262,7 +262,7 @@ def seed_database():
             'price': 249.00,
             'compare_price': 279.00,
             'stock_quantity': 120,
-            'thumbnail_url': 'https://picsum.photos/seed/22/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop',
             'brand': 'Apple',
             'is_featured': True,
             'category': 'electronics'
@@ -276,7 +276,7 @@ def seed_database():
             'price': 2499.99,
             'compare_price': 2999.99,
             'stock_quantity': 20,
-            'thumbnail_url': 'https://picsum.photos/seed/23/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=400&fit=crop',
             'brand': 'Samsung',
             'is_featured': True,
             'category': 'electronics'
@@ -290,7 +290,7 @@ def seed_database():
             'price': 429.00,
             'compare_price': 479.00,
             'stock_quantity': 75,
-            'thumbnail_url': 'https://picsum.photos/seed/24/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=400&h=400&fit=crop',
             'brand': 'Bose',
             'is_new': True,
             'category': 'electronics'
@@ -304,7 +304,7 @@ def seed_database():
             'price': 179.99,
             'compare_price': 199.99,
             'stock_quantity': 90,
-            'thumbnail_url': 'https://picsum.photos/seed/25/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=400&h=400&fit=crop',
             'brand': 'JBL',
             'category': 'electronics'
         },
@@ -317,7 +317,7 @@ def seed_database():
             'price': 99.00,
             'compare_price': 119.00,
             'stock_quantity': 150,
-            'thumbnail_url': 'https://picsum.photos/seed/26/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=400&fit=crop',
             'brand': 'Apple',
             'category': 'electronics'
         },
@@ -332,7 +332,7 @@ def seed_database():
             'price': 499.99,
             'compare_price': 549.99,
             'stock_quantity': 30,
-            'thumbnail_url': 'https://picsum.photos/seed/27/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop',
             'brand': 'Sony',
             'is_featured': True,
             'category': 'gaming'
@@ -346,7 +346,7 @@ def seed_database():
             'price': 349.99,
             'compare_price': 379.99,
             'stock_quantity': 55,
-            'thumbnail_url': 'https://picsum.photos/seed/28/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=400&fit=crop',
             'brand': 'Nintendo',
             'is_featured': True,
             'category': 'gaming'
@@ -360,7 +360,7 @@ def seed_database():
             'price': 499.99,
             'compare_price': 549.99,
             'stock_quantity': 40,
-            'thumbnail_url': 'https://picsum.photos/seed/29/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=400&fit=crop',
             'brand': 'Microsoft',
             'is_featured': True,
             'category': 'gaming'
@@ -374,7 +374,7 @@ def seed_database():
             'price': 549.00,
             'compare_price': 649.00,
             'stock_quantity': 35,
-            'thumbnail_url': 'https://picsum.photos/seed/30/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1484154218962-a197022b5858?w=400&h=400&fit=crop',
             'brand': 'Valve',
             'is_new': True,
             'category': 'gaming'
@@ -388,7 +388,7 @@ def seed_database():
             'price': 179.99,
             'compare_price': 199.99,
             'stock_quantity': 80,
-            'thumbnail_url': 'https://picsum.photos/seed/31/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=400&h=400&fit=crop',
             'brand': 'Razer',
             'category': 'gaming'
         },
@@ -403,7 +403,7 @@ def seed_database():
             'price': 150.00,
             'compare_price': 170.00,
             'stock_quantity': 80,
-            'thumbnail_url': 'https://picsum.photos/seed/32/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1605901309584-818e25960a8f?w=400&h=400&fit=crop',
             'brand': 'Nike',
             'is_featured': True,
             'category': 'fashion'
@@ -417,7 +417,7 @@ def seed_database():
             'price': 190.00,
             'compare_price': 210.00,
             'stock_quantity': 65,
-            'thumbnail_url': 'https://picsum.photos/seed/33/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=400&h=400&fit=crop',
             'brand': 'Adidas',
             'is_featured': True,
             'category': 'fashion'
@@ -431,7 +431,7 @@ def seed_database():
             'price': 69.50,
             'compare_price': 89.50,
             'stock_quantity': 120,
-            'thumbnail_url': 'https://picsum.photos/seed/34/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=400&fit=crop',
             'brand': 'Levi\'s',
             'category': 'fashion'
         },
@@ -444,7 +444,7 @@ def seed_database():
             'price': 169.00,
             'compare_price': 199.00,
             'stock_quantity': 90,
-            'thumbnail_url': 'https://picsum.photos/seed/35/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1625961332071-f1673bcbcda4?w=400&h=400&fit=crop',
             'brand': 'Ray-Ban',
             'is_featured': True,
             'category': 'fashion'
@@ -458,7 +458,7 @@ def seed_database():
             'price': 320.00,
             'compare_price': 380.00,
             'stock_quantity': 45,
-            'thumbnail_url': 'https://picsum.photos/seed/36/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1576678927484-cc907957088c?w=400&h=400&fit=crop',
             'brand': 'The North Face',
             'is_new': True,
             'category': 'fashion'
@@ -474,7 +474,7 @@ def seed_database():
             'price': 749.99,
             'compare_price': 849.99,
             'stock_quantity': 40,
-            'thumbnail_url': 'https://picsum.photos/seed/37/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1590239926044-4131f5d0654d?w=400&h=400&fit=crop',
             'brand': 'Dyson',
             'is_featured': True,
             'category': 'home-kitchen'
@@ -488,7 +488,7 @@ def seed_database():
             'price': 179.00,
             'compare_price': 219.00,
             'stock_quantity': 70,
-            'thumbnail_url': 'https://picsum.photos/seed/38/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1579721101217-adf86a7aebef?w=400&h=400&fit=crop',
             'brand': 'Nespresso',
             'is_featured': True,
             'category': 'home-kitchen'
@@ -502,7 +502,7 @@ def seed_database():
             'price': 89.99,
             'compare_price': 119.99,
             'stock_quantity': 100,
-            'thumbnail_url': 'https://picsum.photos/seed/39/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop',
             'brand': 'Instant Pot',
             'category': 'home-kitchen'
         },
@@ -515,7 +515,7 @@ def seed_database():
             'price': 449.99,
             'compare_price': 499.99,
             'stock_quantity': 35,
-            'thumbnail_url': 'https://picsum.photos/seed/40/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=400&h=400&fit=crop',
             'brand': 'KitchenAid',
             'is_featured': True,
             'category': 'home-kitchen'
@@ -529,7 +529,7 @@ def seed_database():
             'price': 299.99,
             'compare_price': 349.99,
             'stock_quantity': 55,
-            'thumbnail_url': 'https://picsum.photos/seed/41/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=400&h=400&fit=crop',
             'brand': 'Philips',
             'is_new': True,
             'category': 'home-kitchen'
@@ -545,7 +545,7 @@ def seed_database():
             'price': 18.99,
             'compare_price': 27.00,
             'stock_quantity': 200,
-            'thumbnail_url': 'https://picsum.photos/seed/42/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1557438159-51eec7a6c9e8?w=400&h=400&fit=crop',
             'brand': 'Random House',
             'is_featured': True,
             'category': 'books'
@@ -559,7 +559,7 @@ def seed_database():
             'price': 16.99,
             'compare_price': 24.00,
             'stock_quantity': 180,
-            'thumbnail_url': 'https://picsum.photos/seed/43/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1544444134-e6f3b5652e3d?w=400&h=400&fit=crop',
             'brand': 'Harriman House',
             'is_featured': True,
             'category': 'books'
@@ -573,7 +573,7 @@ def seed_database():
             'price': 17.99,
             'compare_price': 26.00,
             'stock_quantity': 150,
-            'thumbnail_url': 'https://picsum.photos/seed/44/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=400&h=400&fit=crop',
             'brand': 'Grand Central',
             'category': 'books'
         },
@@ -586,7 +586,7 @@ def seed_database():
             'price': 12.99,
             'compare_price': 18.00,
             'stock_quantity': 220,
-            'thumbnail_url': 'https://picsum.photos/seed/45/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=400&fit=crop',
             'brand': 'TarcherPerigee',
             'category': 'books'
         },
@@ -601,7 +601,7 @@ def seed_database():
             'price': 49.99,
             'compare_price': 69.99,
             'stock_quantity': 150,
-            'thumbnail_url': 'https://picsum.photos/seed/46/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400&h=400&fit=crop',
             'brand': 'FitLife',
             'category': 'sports-fitness'
         },
@@ -614,7 +614,7 @@ def seed_database():
             'price': 429.00,
             'compare_price': 549.00,
             'stock_quantity': 40,
-            'thumbnail_url': 'https://picsum.photos/seed/47/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=400&h=400&fit=crop',
             'brand': 'Bowflex',
             'is_featured': True,
             'category': 'sports-fitness'
@@ -628,7 +628,7 @@ def seed_database():
             'price': 159.95,
             'compare_price': 179.95,
             'stock_quantity': 85,
-            'thumbnail_url': 'https://picsum.photos/seed/48/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400&h=400&fit=crop',
             'brand': 'Fitbit',
             'is_new': True,
             'category': 'sports-fitness'
@@ -642,7 +642,7 @@ def seed_database():
             'price': 399.00,
             'compare_price': 449.00,
             'stock_quantity': 50,
-            'thumbnail_url': 'https://picsum.photos/seed/49/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop',
             'brand': 'Therabody',
             'is_featured': True,
             'category': 'sports-fitness'
@@ -658,7 +658,7 @@ def seed_database():
             'price': 799.00,
             'compare_price': 899.00,
             'stock_quantity': 45,
-            'thumbnail_url': 'https://picsum.photos/seed/50/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400&h=400&fit=crop',
             'brand': 'Apple',
             'is_featured': True,
             'is_new': True,
@@ -673,7 +673,7 @@ def seed_database():
             'price': 399.99,
             'compare_price': 449.99,
             'stock_quantity': 60,
-            'thumbnail_url': 'https://picsum.photos/seed/51/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop',
             'brand': 'Samsung',
             'is_featured': True,
             'category': 'watches'
@@ -687,7 +687,7 @@ def seed_database():
             'price': 699.99,
             'compare_price': 799.99,
             'stock_quantity': 35,
-            'thumbnail_url': 'https://picsum.photos/seed/52/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=400&h=400&fit=crop',
             'brand': 'Garmin',
             'category': 'watches'
         },
@@ -702,7 +702,7 @@ def seed_database():
             'price': 599.99,
             'compare_price': 649.99,
             'stock_quantity': 30,
-            'thumbnail_url': 'https://picsum.photos/seed/53/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1522338242042-2d1c0e29cebb?w=400&h=400&fit=crop',
             'brand': 'Dyson',
             'is_featured': True,
             'category': 'beauty'
@@ -716,7 +716,7 @@ def seed_database():
             'price': 380.00,
             'compare_price': 420.00,
             'stock_quantity': 25,
-            'thumbnail_url': 'https://picsum.photos/seed/54/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=400&h=400&fit=crop',
             'brand': 'La Mer',
             'is_featured': True,
             'category': 'beauty'
@@ -730,7 +730,7 @@ def seed_database():
             'price': 265.00,
             'compare_price': 295.00,
             'stock_quantity': 40,
-            'thumbnail_url': 'https://picsum.photos/seed/55/400/400',
+            'thumbnail_url': 'https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&h=400&fit=crop',
             'brand': 'SK-II',
             'category': 'beauty'
         },
@@ -847,3 +847,12 @@ if __name__ == '__main__':
     app = create_app()
     with app.app_context():
         seed_database()
+
+
+
+
+
+
+
+
+
